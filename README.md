@@ -1,2 +1,0 @@
-# SEIR-project-
-Seir Project
